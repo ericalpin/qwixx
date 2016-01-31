@@ -1,0 +1,2 @@
+# qwixx
+Qwixx dice game
